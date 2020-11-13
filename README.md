@@ -1,7 +1,6 @@
 # Khameleon
 Implementation of "Drawing over other apps" for Privacy Screens Android-app, called Khameleon.
 
-Available on PlayMarket <a href="https://play.google.com/store/apps/details?id=c0defather.chameleon">https://play.google.com/store/apps/details?id=c0defather.chameleon</a>
 
 Checkout a brief tutorial about must-have components for drawing-over-other-apps at my <a href="https://habrahabr.ru/users/kuanyshzhunussov/posts/">blog</a>.
 
